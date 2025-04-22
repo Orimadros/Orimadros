@@ -6,12 +6,7 @@ I'm Leo, an Economics student at Insper
 
 ---
 
-### 📊 GitHub Stats
-
-![Leo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Orimadros&show_icons=true&theme=tokyonight&hide=stars)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Orimadros&layout=compact&theme=tokyonight&exclude_repo=datacenter-map,family-business-performance)
-
 
 ---
 
