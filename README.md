@@ -6,13 +6,9 @@ I'm Leo, an Economics student at Insper
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Orimadros&layout=compact&theme=tokyonight&exclude_repo=datacenter-map,family-business-performance)
-
----
-
 ### 💻 Languages
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40"/> <img src="https://github.com/user-attachments/assets/790beb3a-69ab-4cc9-8346-037373f87619" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
 
 
 
